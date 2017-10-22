@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">android-view-animation-sample</string>
+    <string name="title_activity_view_animation">ViewAnimationActivity</string>
 </resources>

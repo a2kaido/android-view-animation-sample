@@ -16,6 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".ui.activity.ViewAnimationActivity"
+            android:label="@string/title_activity_view_animation"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".ui.activity.ObjectAnimatorActivity" />
+        <activity android:name=".ui.activity.AnimatorSetActivity" />
+        <activity android:name=".ui.activity.ValueAnimatorActivity" />
+        <activity android:name=".ui.activity.SpringAnimationActivity"></activity>
     </application>
 
 </manifest>
